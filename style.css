@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+}
+
+.canvas {
+    width: 600px;
+    height: 450px;
+    margin: 45px auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.switch-green {
+    width: 300px;
+    height: 600px;
+    background: url('Green-Switch.png') no-repeat;
+    margin: 0;
+}
+
+.switch-red {
+    width: 300px;
+    height: 600px;
+    background: url('Red-Switch.png') no-repeat;
+    margin: 0;
+}
+
+.click-text {
+    font-family: 'Hind', sans-serif;
+    font-size: 30px;
+    margin: 0;
+}
